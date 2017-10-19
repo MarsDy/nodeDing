@@ -1,0 +1,26 @@
+{
+  "name": "ding",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "async": "^2.3.0",
+    "bearcat": "^0.4.29",
+    "bluebird": "^3.5.0",
+    "body-parser": "~1.16.0",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.0",
+    "express": "^4.14.1",
+    "jade": "~1.11.0",
+    "mongodb": "^2.2.31",
+    "morgan": "~1.7.0",
+    "os": "^0.1.1",
+    "promise": "^7.1.1",
+    "q": "^1.5.0",
+    "redis": "^2.7.1",
+    "serve-favicon": "~2.3.2",
+    "underscore": "^1.8.3"
+  }
+}
