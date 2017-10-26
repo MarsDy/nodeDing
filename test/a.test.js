@@ -1,4 +1,4 @@
-var add = require('./a.js');
+var add = require('../unittest/a.js');
 
 // var should=require('chai').should();
 
@@ -18,3 +18,28 @@ describe('add', function () {
     })
 })
 
+describe('异步请求应该返回一个对象',function () {
+    //异步
+})
+
+//钩子(hooks)
+describe('hooks', function() {
+
+    before(function() {
+        // 在本区块的所有测试用例之前执行
+    });
+
+    after(function() {
+        // 在本区块的所有测试用例之后执行
+    });
+
+    beforeEach(function() {
+        // 在本区块的每个测试用例之前执行
+    });
+
+    afterEach(function() {
+        // 在本区块的每个测试用例之后执行
+    });
+
+    // test cases
+});

@@ -1,9 +1,26 @@
-var http= require('http');
-http.createServer(function(req,res){
-  res.writeHead(200);
-  res.end('hello world');
-}).listen(Math.round(1+Math.random()*1000),'127.0.0.1');
+// var http= require('http');
+// http.createServer(function(req,res){
+//   res.writeHead(200);
+//   res.end('hello world');
+// }).listen(Math.round(1+Math.random()*1000),'127.0.0.1');
 
+
+var Waterline=require('waterline');
+// var app=require
+var http=require('http');
+var mysql=require('mysql');
+
+var add=function (x,y) {
+    return x+y;
+}
+
+var add5=function (y) {
+    return add;
+}
+
+var a=add5(1);
+var b=a(1,2);
+console.log(b);
 
 
 

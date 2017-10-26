@@ -1,0 +1,207 @@
+{
+  "mongodb": {
+    "host" : "127.0.0.1",
+    "port" : "27017",
+    "database" : "vr_mmo",
+    "user":"",
+    "pass":""
+  },
+  "cache": {
+    "use": "redis",
+    "redis": {
+      "type": "redis",
+      "host" : "127.0.0.1",
+      "port" : 6379,
+      "db":1,
+      "cleanOnStartUp": true,
+      "maxAge":180000,
+      "auth_pass":"Mm!Ou@S2e1R"
+    },
+    "socialredis": {
+      "type": "redis",
+      "host" : "127.0.0.1",
+      "port" : 6379,
+      "db":2,
+      "cleanOnStartUp": true,
+      "maxAge":180000,
+      "listMaxAge":3600,
+      "auth_pass":"Mm!Ou@S2e1R"
+    },
+    "setname": {
+      "type": "redis",
+      "host" : "127.0.0.1",
+      "port" : 6379,
+      "db":3,
+      "cleanOnStartUp": true,
+      "maxAge":180000,
+      "listMaxAge":3600,
+      "auth_pass":"Mm!Ou@S2e1R"
+    },
+
+    "vrcaseredis": {
+      "type": "redis",
+      "host" : "127.0.0.1",
+      "port" : 6379,
+      "db":4,
+      "cleanOnStartUp": true,
+      "maxAge":180000,
+      "listMaxAge":3600,
+      "auth_pass":"Mm!Ou@S2e1R"
+    },
+    "cacheredis": {
+      "type": "redis",
+      "host" : "127.0.0.1",
+      "port" : 6379,
+      "db":5,
+      "cleanOnStartUp": true,
+      "maxAge":180000,
+      "listMaxAge":3600,
+      "auth_pass":"Mm!Ou@S2e1R"
+    },
+    "loadconfig": {
+      "type": "redis",
+      "host" : "127.0.0.1",
+      "port" : 6379,
+      "db":6,
+      "cleanOnStartUp": true,
+      "maxAge":180000,
+      "listMaxAge":3600,
+      "auth_pass":"Mm!Ou@S2e1R"
+    },
+    "tcaplus" : {
+      "type": "tcaplus",
+      "host" : "10.66.118.184",
+      "port" : 9999,
+      "module_id": 0,
+      "app_id": 26,
+      "zone_id": 3,
+      "signature": "223ccae95d43523a237114c3bd247cbd",
+      "log_conf_file": "tlogconf.xml",
+      "log_category_name": "test",
+      "cleanOnStartUp": true,
+      "maxAge":180000,
+      "keepAlive":true
+    },
+    "prefix" : {
+      "prefix":"VRMMO",
+      "statusFix":"STATUS",
+      "gameStatus":"GAMESTATUS",
+      "room": "ROOM:rooms",
+      "roomUser": "ROOM:users",
+      "areaUser": "AREA:users:",
+      "social" : {
+        "followKey": ":s:fo:",
+        "fanKey": ":s:fa:",
+        "friendKey": ":s:fr:",
+        "sortScoreKey": ":s:score",
+        "statisticKey": ":s:sta:",
+        "followSortKey": ":s:sfo:",
+        "fanSortKey": ":s:sfa:",
+        "friendSortKey": ":s:sfr:"
+      },
+      "vrcase":{
+        "vrCaseKey": ":v:vr:",
+        "ownCaseKey": ":v:ow:",
+        "caseOwnKey": ":v:ca:",
+        "sysOwnKey": ":v:sy:",
+        "levCaseKey": ":v:lv:",
+        "instKey":":v:inst:",
+        "ownInstKey":":v:owInst:",
+        "curInstKey":":v:cuInst:",
+        "checkScoreKey": ":v:checkScore:"
+      },
+      "cachenodb":{
+        "frontendKey": ":c:fr:",
+        "playerDataKey":"data:player:id:",
+        "playerIdxKey":"index:player:imId:"
+      }
+    }
+
+  },
+  "mysql":{
+    "dbConnector": "asyncdb",
+    "defaultDb": "default",
+    "db": {
+      "default": {
+        "adapter": "default",
+        "host": "127.0.0.1",
+        "port": 3306,
+        "user": "mmouser",
+        "password": "Mm!Ou@S2e1R",
+        "database": "vr_mmo",
+        "charset": "utf8",
+        "collation": "utf8_general_ci",
+        "pool": true,
+        "connectionLimit": 20,
+        "waitForConnections": true
+      }
+    },
+    "tableMap": {
+      "activity": "default",
+      "announcement": "default",
+      "ban": "default",
+      "battle_record": "default",
+      "border": "default",
+      "chatannounce": "default",
+      "commonhero": "default",
+      "coupon": "default",
+      "exploits": "default",
+      "follow": "default",
+      "homeuserdata": "default",
+      "followstatistic": "default",
+      "hero": "default",
+      "heroevaluate": "default",
+      "herorecequip": "default",
+      "hotkey": "default",
+      "item": "default",
+      "ladderrank": "default",
+      "log_gameresult": "default",
+      "log_login": "default",
+      "log_logout": "default",
+      "log_match": "default",
+      "mail": "default",
+      "matchrecord": "default",
+      "modtpl": "default",
+      "present": "default",
+      "signin": "default",
+      "silence": "default",
+      "sysmail": "default",
+      "systemnotification": "default",
+      "talent": "default",
+      "task": "default",
+      "trade": "default",
+      "tradelog": "default",
+      "user": "default",
+      "itemtype": "default",
+      "buildtype": "default",
+      "build": "default",
+      "home": "default",
+      "profession": "default",
+      "itemcategory": "default",
+      "qp_visitrelation":"default",
+      "qp_visitaward":"default",
+      "newvip":"default",
+      "lottery":"default",
+      "mission_inst":"default",
+      "role":"default",
+      "playerattr1":"default",
+      "vrcase":"default",
+      "mapinfo":"default",
+      "quest_inst":"default",
+      "titles":"default",
+      "homemapinfo":"default",
+      "buildconditon":"default",
+      "playermapinfo":"default",
+      "butler":"default",
+      "reward_all":"default",
+      "reward_node":"default",
+      "buildingtype":"default",
+      "buildinfo":"default",
+      "courseware":"default",
+      "courseware_type":"default",
+      "home_expand":"default",
+      "homeattr":"default"
+
+    }
+  }
+}
