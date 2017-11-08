@@ -18,7 +18,7 @@ var add5=function (y) {
     return add;
 }
 
-var a=add5(1);
+var a=add5(2);
 var b=a(1,2);
 console.log(b);
 
