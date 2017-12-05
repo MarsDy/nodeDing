@@ -18,3 +18,4 @@ node_modules/*
 /game-server/config/schema/mysql.json
 /game-server/config/db.json
 /game-server/config/servers.json
+/.idea
