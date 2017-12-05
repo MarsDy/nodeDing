@@ -1,20 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d860b356-d036-452d-8a66-56540283bb2c" name="Default" comment="+个注释">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    <list default="true" id="5c8ce9f3-6776-4436-bfb1-d4ff147422cf" name="默认的" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
     </list>
-    <ignored path="Ding.iws" />
-    <ignored path=".idea/workspace.xml" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="CreatePatchCommitExecutor">
-    <option name="PATCH_PATH" value="" />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="Ding" />
@@ -34,8 +28,8 @@
       <file leaf-file-name="db.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/db.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="28" lean-forward="true" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+            <state relative-caret-position="238">
+              <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -113,130 +107,11 @@
       </file>
     </leaf>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="tsconfig.json" />
-        <option value="JSON" />
-        <option value="cc" />
-        <option value="JavaScript File" />
-        <option value="HTML File" />
-      </list>
-    </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>exports</find>
-      <find>pomelo-rpc</find>
-      <find>isArray</find>
-      <find>nativeIsArray</find>
-      <find>isNumber</find>
-      <find>each</find>
-      <find>isEmpty</find>
-      <find>optimizeCb</find>
-      <find>_.times</find>
-      <find>Ctor</find>
-      <find>setT</find>
-      <find>delete</find>
-      <find>msbuild</find>
-      <find>inspect</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>/</replace>
-    </replaceStrings>
-    <dirStrings>
-      <dir>E:\qile_code\matchCenter\DoudizhuServer\game-server</dir>
-    </dirStrings>
-  </component>
-  <component name="Git.Settings">
-    <option name="UPDATE_TYPE" value="MERGE" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/test/inheritance/Child.js" />
-        <option value="$PROJECT_DIR$/test/object.test/defineProperty.js" />
-        <option value="$PROJECT_DIR$/test/this.test.js.html" />
-        <option value="$PROJECT_DIR$/test/object.test/defineProperty.test.js" />
-        <option value="$PROJECT_DIR$/test/this.test/module_this.test.js" />
-        <option value="$PROJECT_DIR$/test/object.test/__defineGetter__.js" />
-        <option value="$PROJECT_DIR$/test/object.test/defineGetter.js" />
-        <option value="$PROJECT_DIR$/test/array.test/arraytest.js" />
-        <option value="$PROJECT_DIR$/base/learn_void.js" />
-        <option value="$PROJECT_DIR$/base/dataJudge/isArray_test.js" />
-        <option value="$PROJECT_DIR$/base/dataJudge/isNumber_test.js" />
-        <option value="$PROJECT_DIR$/base/dataJudge/isUndefined.js" />
-        <option value="$PROJECT_DIR$/base/dataJudge/isBoolean.test.js" />
-        <option value="$PROJECT_DIR$/base/dataJudge/isNaN_test.js" />
-        <option value="$PROJECT_DIR$/base/dataJudge/isObject_test.js" />
-        <option value="$PROJECT_DIR$/base/bind.test.js" />
-        <option value="$PROJECT_DIR$/base/this.test.js/this_test.js" />
-        <option value="$PROJECT_DIR$/base/array/slice.test.js" />
-        <option value="$PROJECT_DIR$/base/sourceCode/underscore.test.js" />
-        <option value="$PROJECT_DIR$/base/plugUsage/moment.test.js" />
-        <option value="$PROJECT_DIR$/test/buffer.test/buffer.test.sj.js" />
-        <option value="$PROJECT_DIR$/test/buffer.test/leak.test.js" />
-        <option value="$PROJECT_DIR$/test/buffer.test/speed.js" />
-        <option value="$PROJECT_DIR$/test/eventLoop.test/event.test.js" />
-        <option value="$PROJECT_DIR$/test/test.js" />
-        <option value="$PROJECT_DIR$/test/timer.test.js/time.js" />
-        <option value="$PROJECT_DIR$/gc.log" />
-        <option value="$PROJECT_DIR$/base/cluster.js" />
-        <option value="$PROJECT_DIR$/base/cluster/master.js" />
-        <option value="$PROJECT_DIR$/base/cluster/worker.js" />
-        <option value="$PROJECT_DIR$/base/cluster/1/t1.js" />
-        <option value="$PROJECT_DIR$/test/a.js" />
-        <option value="$PROJECT_DIR$/mytest/for_return.js" />
-        <option value="$PROJECT_DIR$/mytest/htpp.test/httptest.js" />
-        <option value="$PROJECT_DIR$/mytest/htpp.test/test.js" />
-        <option value="$PROJECT_DIR$/base/array/1.js" />
-        <option value="$PROJECT_DIR$/source/underscoretest.js" />
-        <option value="$PROJECT_DIR$/orm.js" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/config/db.json" />
-        <option value="$PROJECT_DIR$/orm/index.js" />
-        <option value="$PROJECT_DIR$/test/a.test.js" />
-        <option value="$PROJECT_DIR$/node-gyp" />
-        <option value="$PROJECT_DIR$/hello.cc" />
-        <option value="$PROJECT_DIR$/build/hello.vcxproj" />
-        <option value="$PROJECT_DIR$/binding.gyp" />
-        <option value="$PROJECT_DIR$/socket/index.js" />
-        <option value="$PROJECT_DIR$/socket/index.html" />
-        <option value="$PROJECT_DIR$/test.js" />
-        <option value="$PROJECT_DIR$/app.js" />
-        <option value="$PROJECT_DIR$/db.js" />
-      </list>
-    </option>
-  </component>
-  <component name="JsBowerSettings">
-    <exe-path />
-    <config-path />
-  </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
-    <package-json value="$PROJECT_DIR$/package.json" />
-  </component>
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/node-v5.12.0/deps/npm/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node-v5.12.0/test/fixtures/internal-modules/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node-v5.12.0/test/fixtures/module-require/child/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node-v5.12.0/test/fixtures/module-require/parent/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node-v5.12.0/test/fixtures/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node-v5.12.0/test/gc/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node-v5.12.0/tools/doc/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node-v5.12.0/tools/eslint/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules" />
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="7" />
-    <option name="y" value="5" />
-    <option name="width" value="1572" />
-    <option name="height" value="1157" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -269,30 +144,6 @@
       </pane>
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="nodejs_interpreter_path" value="C:\Program Files\nodejs\node.exe" />
-    <property name="javascript.nodejs.core.library.configured.version" value="5.9.0" />
-    <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\T\NodeJS\nodeDing" />
-      <recent name="E:\T\NodeJS\nodeDing\bin" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\T\NodeJS\nodeDing" />
-      <recent name="E:\T\NodeJS\nodeDing\build" />
-      <recent name="E:\T\NodeJS\nodeDing\unittest" />
-      <recent name="E:\T\NodeJS\nodeDing\test" />
-      <recent name="E:\T\NodeJS\nodeDing\base" />
-    </key>
-  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -305,173 +156,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.bin\www">
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
-      <envs />
-    </configuration>
-    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
-      <node-interpreter />
-      <node-options />
-      <working-directory>$PROJECT_DIR$</working-directory>
-      <pass-parent-env>true</pass-parent-env>
-      <envs />
-      <ui>bdd</ui>
-      <extra-mocha-options />
-      <test-kind>DIRECTORY</test-kind>
-      <test-directory />
-      <recursive>false</recursive>
-    </configuration>
-    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
-      <method />
-    </configuration>
-    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
-      <node-interpreter value="project" />
-      <working-dir value="" />
-      <envs />
-      <scope-kind value="ALL" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
-      <config-file value="" />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
-      <config-file value="" />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
-      <method />
-    </configuration>
-    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
-      <option name="cucumberJsArguments" value="" />
-      <option name="executablePath" />
-      <option name="filePath" />
-      <method />
-    </configuration>
-    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run" />
-      <scripts />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-  </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="d860b356-d036-452d-8a66-56540283bb2c" name="Default" comment="" />
-      <created>1492681012233</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1492681012233</updated>
-      <workItem from="1495439440702" duration="13149000" />
-      <workItem from="1497513098271" duration="2190000" />
-      <workItem from="1498296230657" duration="8094000" />
-      <workItem from="1500262383271" duration="4724000" />
-      <workItem from="1500383048563" duration="599000" />
-      <workItem from="1500626075944" duration="4107000" />
-      <workItem from="1501489064120" duration="2456000" />
-      <workItem from="1501753582596" duration="1986000" />
-      <workItem from="1502851069920" duration="33041000" />
-      <workItem from="1503282649657" duration="1451000" />
-      <workItem from="1503981119417" duration="12191000" />
-      <workItem from="1505035839494" duration="16890000" />
-      <workItem from="1506217058735" duration="2778000" />
-      <workItem from="1506437516135" duration="1034000" />
-      <workItem from="1506781099058" duration="1193000" />
-      <workItem from="1506828448721" duration="179000" />
-      <workItem from="1507908888280" duration="5096000" />
-      <workItem from="1508035365343" duration="1198000" />
-      <workItem from="1508422266749" duration="2000" />
-      <workItem from="1508460671587" duration="3869000" />
-      <workItem from="1508496469319" duration="786000" />
-      <workItem from="1508719119776" duration="8946000" />
-      <workItem from="1508806495637" duration="6999000" />
-      <workItem from="1508845438955" duration="1307000" />
-      <workItem from="1508903624776" duration="3584000" />
-      <workItem from="1508931293694" duration="5146000" />
-      <workItem from="1508980392593" duration="3720000" />
-      <workItem from="1510312985430" duration="1822000" />
-      <workItem from="1510551443347" duration="1866000" />
-      <workItem from="1510812430140" duration="4631000" />
-      <workItem from="1510840740579" duration="10000" />
-      <workItem from="1510882720058" duration="5614000" />
-      <workItem from="1511145915099" duration="8731000" />
-      <workItem from="1511243090403" duration="71000" />
-      <workItem from="1511920481684" duration="3445000" />
-      <workItem from="1512024483313" duration="8861000" />
-      <workItem from="1512092361262" duration="6907000" />
-      <workItem from="1512265747772" duration="2136000" />
-      <workItem from="1512351047067" duration="5285000" />
-      <workItem from="1512453362690" duration="1170000" />
-    </task>
-    <task id="LOCAL-00001" summary="Default">
-      <created>1508903976549</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1508903976549</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Default">
-      <created>1508932269073</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1508932269073</updated>
-    </task>
-    <task id="LOCAL-00003" summary="11111">
-      <created>1512453603798</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1512453603798</updated>
-    </task>
-    <task id="LOCAL-00004" summary="gitignore">
-      <created>1512453732648</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1512453732648</updated>
-    </task>
-    <task id="LOCAL-00005" summary="+个注释">
-      <created>1512454270174</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1512454270174</updated>
-    </task>
-    <task id="LOCAL-00006" summary="+个注释">
-      <created>1512455066996</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1512455066996</updated>
-    </task>
-    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="197366000" />
+    <option name="totallyTimeSpent" value="19000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="7" y="5" width="1572" height="1157" extended-state="0" />
@@ -498,11 +190,11 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="消息" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3297244" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27181545" sideWeight="0.49789253" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="消息" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297244" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27181545" sideWeight="0.49789253" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12385919" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12385919" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -510,27 +202,6 @@
       <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297244" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
     </layout>
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="Vcs.Log.UiProperties">
-    <option name="RECENTLY_FILTERED_USER_GROUPS">
-      <collection />
-    </option>
-    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-      <collection />
-    </option>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Default" />
-    <MESSAGE value="11111" />
-    <MESSAGE value="gitignore" />
-    <MESSAGE value="+个注释" />
-    <option name="LAST_COMMIT_MESSAGE" value="+个注释" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -789,8 +460,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/db.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="28" lean-forward="true" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+        <state relative-caret-position="238">
+          <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
           <folding />
         </state>
       </provider>
