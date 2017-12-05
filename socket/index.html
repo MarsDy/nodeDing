@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Socket.IO Example</title>
+</head>
+<body>
+<h1>Socket.IO Example</h1>
+<p id="content"></p>
+<script src="/socket.io/socket.io.js"></script>
+<script>
+    var socket = io.connect('http://127.0.0.1:3000');
+    socket.on('message',function(data){
+        var text=document.getElementById('content').innerHTML+'</br>'+data.text;
+        document.getElementById('content').innerHTML=text;
+    })
+</script>
+
+</body>
+</html>

@@ -1,39 +1,36 @@
-// var http= require('http');
-// http.createServer(function(req,res){
-//   res.writeHead(200);
-//   res.end('hello world');
-// }).listen(Math.round(1+Math.random()*1000),'127.0.0.1');
-
-
-var Waterline=require('waterline');
-// var app=require
-var http=require('http');
-var mysql=require('mysql');
-
-var add=function (x,y) {
-    return x+y;
-}
-
-var add5=function (y) {
-    return add;
-}
-
-var a=add5(1);
-var b=a(1,2);
-console.log(b);
+var path=require("path");
+var fs=require("fs");
+var rootPath=__filename;
 
 
 
+// var mapdata=require('E:/vrmmo/commonLib/NodejsCPPPlugin/plugin/mapData/MapData/x64/Debug/mapData.node');
+// //console.error(mapdata);
+// var test = mapdata.newMapObj();
+// //console.error(test);
+// //console.error("****************");
+// console.error(test.adnLoadNewMap(1,"map"));
+// console.error(test.adnGetMapWidth(1));
+// console.error(test.adnGetMapHeight(1));
+// console.error(test.adnGetMapMinX(1));
+// console.error(test.adnGetMapMinY(1));
+// console.error(test.adnGetMapMinZ(1));
+// console.error(test.adnGetMapMaxX(1));
+// console.error(test.adnGetMapMaxY(1));
+// console.error(test.adnGetMapMaxZ(1));
+// console.error(test.adnRaycastStr(1, 1, 200, 3));
 
+var util = require("util")
+var a = {};
+a.b = a;
+a.c = "123";
+a.d={'sbc':123}
 
-
-
-
-
-
-
-
-
+var g={'sg':123};
+var f={'sf':123,gg:g};
+a.f=f;
+// console.log(JSON.stringify(a)); // 报错
+console.log(util.inspect(a,{depth:3,color:'yellow'})); //depth:null 展开全部层级
 
 
 // var express = require('express');

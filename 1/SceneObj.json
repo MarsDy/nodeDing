@@ -1,0 +1,175 @@
+
+{
+    "SceneResId" : "9999",
+    "IsCopymapTemplate" : "False",
+    "IsPainting"        : false,
+    "IsInteractive"     : false,
+    "IsWebActive"       : false,
+    "AllSceneObj"       : [
+        {
+            "guid" : "0643efa2-eff6-46f4-992d-544c84b23b56",
+            "idObj" : 999,
+            "strName" : "SkyBox",
+            "resId"   : "100013",
+            "position" : {
+                "x" : 0.0,
+                "y" : 0.0,
+                "z" : 0.0
+            },
+            "rotation" : {
+                "x" : 0.0,
+                "y" : 0.0,
+                "z" : 0.0
+            },
+            "scale"    : {
+                "x" : 1.0,
+                "y" : 1.0,
+                "z" : 1.0
+            },
+            "luaScript" : "",
+            "unTemplateId" : 999,
+            "isOnlineRes"  : false,
+            "isLock"       : false,
+            "isHide"       : false,
+            "isUseGravity" : false,
+            "isActionObj"  : false,
+            "categoryTags" : "",
+            "isXmlDoc"     : false,
+            "parent"       : "",
+            "statemachine" : [
+            ],
+            "attributeType" : "SkyBox",
+            "Param"         : {
+                "m_b3DPrintable" : false,
+                "skyBoxPath"     : "",
+                "enable"         : true
+            }
+        },
+        {
+            "guid" : "1b12831e-dfbf-4ee4-81fa-fce95769dc9f",
+            "idObj" : 1001,
+            "strName" : "AI高管唐钰",
+            "resId"   : "b14d5611-917d-442d-a975-e48163277789",
+            "position" : {
+                "x" : -139.348999023438,
+                "y" : 83.8339996337891,
+                "z" : -199.998992919922
+            },
+            "rotation" : {
+                "x" : 0.0,
+                "y" : 177.746871948242,
+                "z" : 0.0
+            },
+            "scale"    : {
+                "x" : 1.0,
+                "y" : 1.0,
+                "z" : 1.0
+            },
+            "luaScript" : "",
+            "unTemplateId" : 0,
+            "isOnlineRes"  : true,
+            "isLock"       : false,
+            "isHide"       : false,
+            "isUseGravity" : false,
+            "isActionObj"  : false,
+            "categoryTags" : "gIa30HDC",
+            "isXmlDoc"     : false,
+            "parent"       : "",
+            "statemachine" : [
+            ],
+            "attributeType" : "Character",
+            "Param"         : {
+                "m_b3DPrintable" : false,
+                "startAnimation" : "",
+                "isLoop"         : false,
+                "startAnimGUID"  : "",
+                "listGuid"       : [
+                ]
+            }
+        },
+        {
+            "guid" : "578dc188-e595-4d82-a46c-86236e6f997c",
+            "idObj" : 997,
+            "strName" : "Environment",
+            "resId"   : "741dadb5-15de-420e-8d25-97401ad7dd65",
+            "position" : {
+                "x" : 0.0,
+                "y" : 0.0,
+                "z" : 0.0
+            },
+            "rotation" : {
+                "x" : 0.0,
+                "y" : 0.0,
+                "z" : 0.0
+            },
+            "scale"    : {
+                "x" : 1.0,
+                "y" : 1.0,
+                "z" : 1.0
+            },
+            "luaScript" : "",
+            "unTemplateId" : 0,
+            "isOnlineRes"  : true,
+            "isLock"       : false,
+            "isHide"       : false,
+            "isUseGravity" : false,
+            "isActionObj"  : false,
+            "categoryTags" : "",
+            "isXmlDoc"     : false,
+            "parent"       : "",
+            "statemachine" : [
+            ],
+            "attributeType" : "Environment",
+            "Param"         : {
+                "m_b3DPrintable" : false,
+                "scneneType"     : 0,
+                "fileName"       : ""
+            }
+        },
+        {
+            "guid" : "e0441e7f-c41a-4f01-9a87-9217d94b3f3b",
+            "idObj" : 1000,
+            "strName" : "Camera",
+            "resId"   : "100001",
+            "position" : {
+                "x" : -138.899993896484,
+                "y" : 50.0359992980957,
+                "z" : -140.699996948242
+            },
+            "rotation" : {
+                "x" : 0.0,
+                "y" : 0.0,
+                "z" : 0.0
+            },
+            "scale"    : {
+                "x" : 1.0,
+                "y" : 1.0,
+                "z" : 1.0
+            },
+            "luaScript" : "",
+            "unTemplateId" : 1000,
+            "isOnlineRes"  : false,
+            "isLock"       : false,
+            "isHide"       : false,
+            "isUseGravity" : false,
+            "isActionObj"  : false,
+            "categoryTags" : "",
+            "isXmlDoc"     : false,
+            "parent"       : "",
+            "statemachine" : [
+            ],
+            "attributeType" : "Camera",
+            "Param"         : {
+                "m_b3DPrintable" : false,
+                "bCheckBox"      : false,
+                "vectorCamera"   : {
+                    "x" : 0.0,
+                    "y" : 0.0,
+                    "z" : 0.0
+                },
+                "strTest"        : "",
+                "bCheck"         : false
+            }
+        }
+    ]
+}

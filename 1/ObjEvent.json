@@ -1,0 +1,150 @@
+
+{
+    "Template" : {
+        "1000" : {
+            "Info" : {
+                "unTemplateId" : 1000,
+                "bOnline"      : false,
+                "idRes"        : {
+                    "m_strValue" : ""
+                },
+                "strTemplateName" : "",
+                "typeModel"       : 0,
+                "bNotShowInUi"    : false,
+                "bCreateByLogicLine" : true
+            },
+            "TriggerId" : [
+                1
+            ]
+        }
+    },
+    "UnitPool" : {
+    },
+    "Trigger"  : {
+        "1" : {
+            "unId" : 1,
+            "strNickName" : "",
+            "m_unEventId" : 0,
+            "m_unActionId" : 0
+        }
+    },
+    "Listener" : [
+    ],
+    "Variable" : {
+        "a" : {
+            "ValueType" : "System.Double",
+            "Value"     : 1.0
+        }
+    },
+    "LogicLineObjOrder" : {
+        "m_lstLogicLineObjOrder" : [
+            {
+                "unSceneObjId" : 1000
+            }
+        ]
+    },
+    "TimeLine"          : {
+        "Data" : {
+            "fTimeUpperLimit" : 40.0,
+            "fTotalTime"      : 40.0,
+            "fScale"          : 1.0,
+            "bLoop"           : false
+        },
+        "Object" : [
+            {
+                "Data" : {
+                    "unObjId" : 1000,
+                    "nIndex"  : 0,
+                    "typeInfo" : 0
+                },
+                "Track" : [
+                    {
+                        "Data" : {
+                            "unId" : 1001,
+                            "unOwnerObjectId" : 1000,
+                            "nIndex"          : 0
+                        },
+                        "Slider" : {
+                        }
+                    },
+                    {
+                        "Data" : {
+                            "unId" : 1002,
+                            "unOwnerObjectId" : 1000,
+                            "nIndex"          : 1
+                        },
+                        "Slider" : {
+                        }
+                    },
+                    {
+                        "Data" : {
+                            "unId" : 1003,
+                            "unOwnerObjectId" : 1000,
+                            "nIndex"          : 2
+                        },
+                        "Slider" : {
+                        }
+                    }
+                ]
+            },
+            {
+                "Data" : {
+                    "unObjId" : 10000000,
+                    "nIndex"  : 0,
+                    "typeInfo" : 1,
+                    "fEndTime" : 24.0,
+                    "fTotalTime" : 0.0,
+                    "defaultActionName" : "",
+                    "templateUid"       : "",
+                    "isCustomName"      : false
+                },
+                "Track" : [
+                    {
+                        "Data" : {
+                            "unId" : 1004,
+                            "unOwnerObjectId" : 10000000,
+                            "nIndex"          : 0
+                        },
+                        "Slider" : {
+                        }
+                    }
+                ]
+            },
+            {
+                "Data" : {
+                    "unObjId" : 1001,
+                    "nIndex"  : 1,
+                    "typeInfo" : 1,
+                    "fEndTime" : 24.0,
+                    "fTotalTime" : 0.0,
+                    "defaultActionName" : "",
+                    "templateUid"       : "",
+                    "isCustomName"      : false
+                },
+                "Track" : [
+                    {
+                        "Data" : {
+                            "unId" : 1005,
+                            "unOwnerObjectId" : 1001,
+                            "nIndex"          : 0
+                        },
+                        "Slider" : {
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "ActionProgressMgr" : {
+    },
+    "StateMachineList"  : {
+    },
+    "ParamList"         : {
+    },
+    "StateList"         : {
+    },
+    "ActionList"        : {
+    },
+    "EventList"         : {
+    }
+}
